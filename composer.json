@@ -1,5 +1,5 @@
 {
-  "name": "airesvsg/acf-to-rest-api",
+  "name": "nkCreation/acf-to-rest-api",
   "description": "Exposes Advanced Custom Fields Endpoints in the WordPress REST API",
   "type": "wordpress-plugin",
   "version": "3.1.0",
